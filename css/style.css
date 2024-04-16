@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+}
+h1, h2{
+    text-align: center;
+    font-family: "Sedan", serif;
+    font-weight: 600;
+
+}
+img{
+    display: block;
+    margin: auto;
+}
+P{
+    font-size: 18pt;
+    font-family: "Sedan", serif;
+    font-weight: 400;
+
+}
+iframe{
+    display: block;
+    margin: auto;
+}
